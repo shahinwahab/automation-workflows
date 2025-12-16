@@ -17,7 +17,7 @@ This folder contains Bash scripts for automating GitHub repository tasks under t
   - Supports **topics** and custom **description** via command-line arguments.
 - **Usage Example:**
   ```bash
-  curl -s https://raw.githubusercontent.com/Falcon12120/automation-workflows/main/scripts/create-repo.sh | bash -s -- repo-name topics_input "description "
+  curl -s https://raw.githubusercontent.com/shahinwahab/automation-workflows/main/scripts/create-repo.sh | bash -s -- repo-name topics_input "description "
   ```
 - **Tech:** Bash, GitHub API, Git, CLI automation
 
